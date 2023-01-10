@@ -1,0 +1,6 @@
+com\valrod\spring\backend\apirest\controllers\ClienteRestController.class
+com\valrod\spring\backend\apirest\models\services\ClienteServiceImpl.class
+com\valrod\spring\backend\apirest\models\services\IClienteService.class
+com\valrod\spring\backend\apirest\SpringbootBackendApirestApplication.class
+com\valrod\spring\backend\apirest\models\dao\IClienteDao.class
+com\valrod\spring\backend\apirest\models\entities\Cliente.class

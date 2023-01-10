@@ -1,0 +1,6 @@
+E:\Documentos\Spring5\springboot-backend-apirest\src\main\java\com\valrod\spring\backend\apirest\SpringbootBackendApirestApplication.java
+E:\Documentos\Spring5\springboot-backend-apirest\src\main\java\com\valrod\spring\backend\apirest\controllers\ClienteRestController.java
+E:\Documentos\Spring5\springboot-backend-apirest\src\main\java\com\valrod\spring\backend\apirest\models\services\IClienteService.java
+E:\Documentos\Spring5\springboot-backend-apirest\src\main\java\com\valrod\spring\backend\apirest\models\dao\IClienteDao.java
+E:\Documentos\Spring5\springboot-backend-apirest\src\main\java\com\valrod\spring\backend\apirest\models\entities\Cliente.java
+E:\Documentos\Spring5\springboot-backend-apirest\src\main\java\com\valrod\spring\backend\apirest\models\services\ClienteServiceImpl.java
